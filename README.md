@@ -1,1 +1,1 @@
-Hacktoberfest 2022 tada
+Hacktoberfest 2022 
